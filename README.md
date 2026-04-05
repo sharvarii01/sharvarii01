@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my coding skills, and Data Structure and Algorithm.<br>🌱 I’m currently learning DSA, SAP, JAVA, WEB DEVELOPMENT.<br>💬 Ask me about SQL and OS concepts, Data structure & python/java basic.<br>⚡ Fun fact I have learned HTML/CSS, C, C++, SQL, Python & Java (basics)
+Hi, I’m Sharvari Dhole. A passionate and driven technology enthusiast with a strong interest in enterprise systems and software development. I’m currently pursuing a B.Tech in Computer Science Engineering (SAP specialization) and enjoy building practical solutions that combine programming with real-world problem solving.
+I have a solid foundation in Python, C, C++, and JavaScript, along with hands-on experience in developing data-driven applications. I enjoy turning data and ideas into simple, functional, and effective solutions. With a growing understanding of SAP S/4HANA and ABAP, I’m particularly interested in how technology supports business processes and decision-making.
+Always eager to learn and explore new technologies, I’m focused on continuously improving my skills and gaining practical experience. When I’m not coding, I enjoy exploring new tools, learning trends in tech, and working on creative ideas.
+ 
+Let’s connect and build something impactful together!!
 
 
 ## 🌐 Socials:
